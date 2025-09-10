@@ -59,5 +59,5 @@ This project is released under the Omega Educational License (OEL-1.0).
 -  Free for education, research, and personal use  
 -  Commercial use requires a paid license from the creator  
 -  Significant design modifications and redistributions are not allowed  
-
+youtube link:https://www.youtube.com/@LEARN_OMEGA
 📩 Contact: virendrasinghshekhawat786@gmail.com for commercial licensing inquiries.
