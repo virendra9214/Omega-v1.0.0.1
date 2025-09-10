@@ -47,10 +47,10 @@ Example Projects
 ---
 
  Repository Contents
-- `/hardware` → KiCad schematic, PCB, BOM  
+- `/Production` → KiCad schematic, PCB, BOM  
 - `/firmware` → Arduino / MicroPython example codes  
-- `/docs` → Datasheets, pin mapping, tutorials  
-- `/examples` → Ready-to-run projects for students  
+- `/datasheets` → Datasheets, pin mapping, tutorials  
+- `/codes` → Ready-to-run projects for students and testing after production 
 
 ---
 
