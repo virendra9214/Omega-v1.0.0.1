@@ -1,0 +1,35 @@
+Omega Educational License (OEL-1.0)
+Version 1.0.0.1 – 2025
+Copyright © VIRENDRA SINGH SHEKHAWAT, India
+
+1. Permissions (Free Use)
+- This hardware, firmware, and documentation may be freely used for:
+  • Personal learning and hobby projects
+  • Educational purposes (Individuals)
+  • Non-commercial research
+
+2. Restrictions
+- Commercial use of Omega, or products derived from it, is prohibited
+  without a paid commercial license from the creator.
+- Significant design modifications, derivative versions, or rebranded
+  variants may not be published, sold, or redistributed.
+- Redistribution of the original design must include this license
+  text and credit to the creator.
+
+3. Commercial Licensing
+- Any company, startup, training institute, or organization that:
+  • Manufactures, sells, or distributes Omega or derivative boards
+  • Uses Omega in a commercial product or service
+  • Conducts paid training/courses using Omega
+  must obtain a commercial license from the creator.
+
+4. Ownership
+- All rights remain with the original creator (VIRENDRA SINGH SHEKHAWAT, India).
+- This license cannot be removed or altered in redistributed copies.
+
+5. Disclaimer
+- The Omega board and resources are provided "as-is", without warranty
+  of any kind. The creator is not liable for damages arising from use.
+
+---------------------------------------------------------------
+For commercial licensing, contact: virendrasinghshekhawat786@gmail.com
