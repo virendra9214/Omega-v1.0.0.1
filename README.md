@@ -5,6 +5,7 @@ It combines Wi-Fi, BLE, sensor inputs, motor drivers, and easy expansion in one 
 
 <img width="652" height="542" alt="image" src="https://github.com/user-attachments/assets/c7a9f668-165d-4f9a-92bf-6b630b7d200d" />
   
+<img width="636" height="493" alt="image" src="https://github.com/user-attachments/assets/40634b1c-cd7f-4491-af7a-36043c6c1dbc" />
 
 ---
 
