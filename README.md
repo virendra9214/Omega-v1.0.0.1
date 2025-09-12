@@ -61,3 +61,10 @@ This project is released under the Omega Educational License (OEL-1.0).
 -  Significant design modifications and redistributions are not allowed  
 youtube link:https://www.youtube.com/@LEARN_OMEGA
 📩 Contact: virendrasinghshekhawat786@gmail.com for commercial licensing inquiries.
+
+
+<img width="1032" height="774" alt="image" src="https://github.com/user-attachments/assets/90b53da7-ee9e-4d64-b054-1e13971cd53f" />
+
+<img width="1032" height="774" alt="image" src="https://github.com/user-attachments/assets/aabee35b-1e30-408a-bbfe-605c6210f052" />
+
+<img width="1032" height="774" alt="image" src="https://github.com/user-attachments/assets/371ea206-6c19-4c9a-a3a6-faf5bf4714d1" />
