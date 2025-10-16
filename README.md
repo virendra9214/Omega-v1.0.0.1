@@ -1,6 +1,6 @@
 Omega – ESP32 STEM Controller Board
 
-Omega is an ESP32-based controller board created by an VIRENDRA SINGH SHEKHAWAT from India to make STEM education, robotics, and IoT more accessible.  
+Omega is an ESP32-based controller board created by  VIRENDRA SINGH SHEKHAWAT from India to make STEM education, robotics, and IoT more accessible.  
 It combines Wi-Fi, BLE, sensor inputs, motor drivers, and easy expansion in one compact design — perfect for classrooms, tinkering labs, hobbyists, and competitions.
 
 <img width="652" height="542" alt="image" src="https://github.com/user-attachments/assets/c7a9f668-165d-4f9a-92bf-6b630b7d200d" />
